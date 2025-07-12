@@ -1,0 +1,3 @@
+0 Wearing
+1 Not wearing
+2 Wearing incorrectly
